@@ -2,7 +2,7 @@
 
 ## 🔥 Skills & Strengths
 
-- HTML/CSS/SASS/JS/ReactJS/Frameworks
+- HTML/CSS/SASS/JS/ReactJS/Frameworks | ## 🖥️ Projects / Work
 - C/C++/C#/Go
 - Adobe XD/Photoshop/Premier Pro
 - Java/Python
