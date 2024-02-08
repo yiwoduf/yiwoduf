@@ -1,9 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jaeyol%20Lee&fontAlignY=44" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yiwoduf&theme=github_dark" />
