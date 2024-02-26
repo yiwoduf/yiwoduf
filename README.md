@@ -5,11 +5,12 @@
 </div>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yiwoduf&theme=github_dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiwoduf&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+
+![Profile views](https://komarev.com/ghpvc/?username=yiwoduf&label=Profile%20views&color=blue&style=for-the-badge)
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yiwoduf&theme=react&hide_border=true&border_radius=20&card_width=500" alt="GitHub Streak" /></a>
+
 </div>
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
